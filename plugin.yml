@@ -1,0 +1,7 @@
+name: smallanticheat
+main: ElementalMinecraftGaming\smallanticheat\Main
+version: 1.0.0
+api: [4.0.0]
+load: POSTWORLD
+author: ElementalMinecraftGaming
+description: Flight Anticheat!
